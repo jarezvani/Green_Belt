@@ -1,0 +1,20 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.poll
+{
+	border: 1px solid black;
+	margin: 10px 0 10px 0;
+	width: 40%;
+}
+.container
+{
+	margin: 10px 0 10px 0;
+	border: 1px solid black;
+}
+.id
+{
+	text-align: right;
+}
